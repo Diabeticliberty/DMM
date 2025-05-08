@@ -1,5 +1,5 @@
 ## Welcome to Diabetic Masked Man!
-
+Michael@Glucodatahandler has introduced a graphical representation in his beta version. it is stable and runs very well. Could it be introduced into your watch faces please. Love your faces by the way. Better than Xdrip+ original face
 Diabetic Oversized Watch Faces For MDI Injection Created with Samsung Watch Face Studio that are Compatible with Wear OS 3, 4, 5 with GlucodataHandler for the Visually Impaired.
 
 ## How can you customize your own Watch face?
